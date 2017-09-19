@@ -1,6 +1,6 @@
 ---
 title: SOS Fantômes
-description: Apprendre à créer un jeu pour attraper des phantômes !
+description: Apprendre à créer un jeu pour attraper des fantômes !
 layout: project
 notes: "Ghostbusters - notes.md"
 ---
